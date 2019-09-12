@@ -1,0 +1,30 @@
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\bin\Debug\Aula07Trabalho.exe.config
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\bin\Debug\Aula07Trabalho.exe
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\bin\Debug\Aula07Trabalho.pdb
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.csprojResolveAssemblyReference.cache
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.frmPrincipal.resources
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.Properties.Resources.resources
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.csproj.GenerateResource.Cache
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.exe
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.pdb
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.frmcirculo.resources
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.frmtriangulo.resources
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.frmaluno.resources
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.frmfuncionario.resources
+E:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\bin\Debug\Aula07Trabalho.exe.config
+E:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.exe
+E:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.pdb
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\bin\Debug\Aula07Trabalho.exe.config
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\bin\Debug\Aula07Trabalho.exe
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\bin\Debug\Aula07Trabalho.pdb
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.csprojResolveAssemblyReference.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.frmaluno.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.frmcirculo.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.frmfuncionario.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.frmPrincipal.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.frmtriangulo.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.Properties.Resources.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.csproj.GenerateResource.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.exe
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP - Desenvolvimento de Ap. Locais Prop\06 - 17-03-2017\Visual Basic\Aula07Trabalho\Aula07Trabalho\obj\Debug\Aula07Trabalho.pdb
